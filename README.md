@@ -1,0 +1,1 @@
+This repository contains a VBScript program demonstrating a stack overflow error in a recursive function and its solution. The bug arises from exceeding the maximum recursion depth when calculating the factorial of a large number. The solution implements an iterative approach to avoid excessive recursion.
